@@ -11,6 +11,10 @@ Gambar di atas ini merupakan tampilan yang dapat dilihat di phpmyadmin yang tela
 Pada gambar di atas ini merupakan data dari direktur yang telah dibuat tabelnya tadi, di dalam tabel di atas juga sudah dibuat sebuah data dari tabel cs ini tadinya. 
 
 
+Tabel Database cs
+
+
+
 
 
 
