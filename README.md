@@ -33,6 +33,32 @@ Pada gambar di atas ini adalah tabel database dari teller, disini dapat dilihat 
 
 Untuk gambar di atas ini adalah tampilan dari tabel setelah memasukkan data tadi, jika tidak terdapat kesalahan dalam menginputkan datanya berarti itu benar dan berhasil dan sessuai dengan tipe data masing - masing.
 
+4. Tabel Database Nasabah :
+
+![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/a8ac6557-c2a8-4d2a-a548-bcbbb4ee5920)
+
+Pada gambar di atas ini adalah sebuah tabel database dari nasabah yang beratribut nama_nasabah, jenis_kelamin, Ktp, No_telepon, pendidikan, alamat, pekerjaan, No_Rek, tanggal_lahir, status. Pada gambar di atas ini memiliki primary key dan foreighn key, Ktp disini termasuk ke dalam primary key karena datanya uniq dan tidak sama dengan orang lain, sedangkan No_Rek disini adalah foreighn key, variabel lainnya null akan bisa di isi nantinya. 
+
+![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/1d865006-64f9-4054-bd6a-3fbc0129892e)
+
+Untuk gambar di atas ini adalah data dari tabel database nasabah yang telah dibuat di atas tadi dan disini juga sudah dimasukkan datanya. Setelah memasukkan datanya tadi tidak mengalami kesalahan ataupun error berarti itu berhasil dan juga benar. 
+
+5. Tabel Database saldo_tabungan :
+
+![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/45c28283-206a-43bc-9ff7-7fac48b3991a)
+
+Pada gambar di atas ini merupakan sebuah tabel database dari saldo_tabungan, di dalam database di atas terdiri dari No_Rek, tanggal_setor, jumlah_setor, bukti_selip, kode_transaksi, dan yang terakhir jenis. Pada tabel database di atas memiliki sebuah primary key yaitu No_Rek yang disimbolkan dengan gambar kunci berwarna kuning. variabel lainnya nuul akan bisa diisi nantinya. 
+
+![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/fab55a83-f015-4350-b17e-6f382106eb14)
+
+Gambar di atas ini merupakan sebuah data yang telah diisi setelah membuat tabel database tadinya. Pada saat membuat data dari database ini tidak mengalami kesalahan, berarti data dari database ini benar dan juga berhasil dan tidak terdapat error. 
+
+
+
+
+
+
+
 
 
 
