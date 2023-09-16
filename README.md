@@ -13,6 +13,8 @@ Pada gambar di atas ini merupakan data dari direktur yang telah dibuat tabelnya 
 
 ![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/2c9dc2b0-63db-477f-b65c-277ed3a8e62c) cs
 
+
+
 ![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/51fdbe12-2523-447c-b714-e0cf44559940)
 
 
