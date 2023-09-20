@@ -1,0 +1,8 @@
+CREATE TABLE teller (
+    id_teller INT(20) PRIMARY KEY,
+    nama_teller VARCHAR(50),
+    jenis_kelamin VARCHAR(20),
+    agama VARCHAR(10),
+    umur INT(10),
+    alamat VARCHAR(20)   
+);
