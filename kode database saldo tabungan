@@ -1,0 +1,8 @@
+CREATE TABLE saldo_tabungan (
+    no_rek INT(20) PRIMARY KEY,
+    tanggal_setor DATE,
+    jumlah_setor INT(30),
+    bukti_slip VARCHAR(10),
+    kode_transaksi INT(20),
+    jenis VARCHAR(20)   
+);
