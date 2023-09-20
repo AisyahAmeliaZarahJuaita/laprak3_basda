@@ -1,0 +1,15 @@
+CREATE TABLE nasabah (
+    nama_nasabah VARCHAR(50),
+    jenis_kelamin VARCHAR(10),
+    ktp CHAR(20),
+    no_telepon INT(12),
+    pendidikan VARCHAR(10),
+    alamat VARCHAR(20),
+    pekerjaan VARCHAR(20),
+    agama VARCHAR(10),
+    no_rek INT(10),
+    tanggal_lahir DATE,
+    status VARCHAR(25),
+    PRIMARY KEY (nama_nasabah),
+    FOREIGN KEY (no_rek) REFERENCES saldo_tabungan(no_rek)
+);
