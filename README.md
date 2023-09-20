@@ -1,5 +1,5 @@
-# laprak3_basda
-laprak3_basda_G1A022075
+# laprak3_basda REVISI 
+laprak3_basda_G1A022075_REVISI 
 
 1. Tabel Database Direktur :
 
