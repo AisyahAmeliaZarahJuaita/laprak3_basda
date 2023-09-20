@@ -2,6 +2,7 @@
 laprak3_basda_G1A022075_REVISI 
 
 1. Tabel Database Direktur :
+   
 ![image](https://github.com/AisyahAmeliaZarahJuaita/laprak3_basda/assets/131422249/863a3044-338a-485d-888c-e925513eead5)
 
 Gambar di atas ini merupakan tampilan yang dapat dilihat di phpmyadmin yang telah dibuat tadi. Disini terdapat variabel dengan nama id_direktur dan juga nama_direktur. Disini juga dapat dilihat variabel id_direktur merupakan sebuah primary key daripada tabel direktur di atas ini, sedangkan nama_direktur tidak termasuk ke dalam primary key dikarenakan bukan termasuk ciri - ciri daripada primary key.  
