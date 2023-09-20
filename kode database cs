@@ -1,6 +1,6 @@
 CREATE TABLE cs (
     id_cs INT(20) PRIMARY KEY,
     nama_cs VARCHAR(50),
-    jns_klm VARCHAR(20),
+    jenis_kelamin VARCHAR(20),
     alamat VARCHAR(20)
     );
